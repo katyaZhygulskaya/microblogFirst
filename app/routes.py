@@ -4,4 +4,4 @@ from app import app
 @app.route('/') 
 @app.route('/index') 
 def index(): 
-    return "Привет, Мир! Я Катя"
+    return "Привет, Мир! Я Екатерина"
